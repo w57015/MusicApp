@@ -6,7 +6,7 @@ package com.example.stud.musicapp.api;
 
 import java.util.List;
 
-public class TrendingList {
+public class TrendingList extends TrendingSingle {
 
     public List<TrendingSingle> trending;
 }
