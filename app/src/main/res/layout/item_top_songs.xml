@@ -2,9 +2,11 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/llContainer"
     android:orientation="horizontal"
     android:layout_height= "wrap_content"
     android:padding= "13dp" >
+    android :background= "?selectableItemBackground"
 
 
     <TextView

@@ -4,7 +4,6 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
 
-
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -21,7 +20,8 @@
         </activity>
         <activity
             android:name=".topsongs.TopSongsActivity"
-            android:label="@string/top_songs"/>
-         </application>
+            android:label="@string/top_songs" />
+        <activity android:name=".topsongs.SongDetailsActivity"></activity>
+    </application>
 
 </manifest>
