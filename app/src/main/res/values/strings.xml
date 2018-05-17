@@ -5,4 +5,5 @@
     <string name="genre">Gatunek</string>
     <string name="style">Styl</string>
     <string name="favorites">Ulubione</string>
+    <string name="bFavorites">PrzyciskUlubione</string>
 </resources>
