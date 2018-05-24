@@ -5,4 +5,7 @@
     <string name="genre">Gatunek</string>
     <string name="style">Styl</string>
     <string name="favorites">favorites</string>
+    <string name="searchalbum">Znajdź album</string>
+    <string name="Szukaj">Szukaj</string>
+    <string name="bFavorites">ulubione</string>
 </resources>

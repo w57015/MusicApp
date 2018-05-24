@@ -35,6 +35,16 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new Intent(MainActivity.this, FavoritesActivity.class);
                 startActivity(intent);
 
+                Button bSearchAlbum = findViewById(R.id.bSearchAlbum);
+                bSearchAlbum.setOnClickListener(new View.OnClickListener() {
++            @Override
++            public void onClick(View view) {
+                                       Intent intent = new Intent(MainActivity.this, FavoritesActivity.class);
+                                      startActivity(intent);
+
+                                           }
++        });
+
             }
         });
     }

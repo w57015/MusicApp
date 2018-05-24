@@ -23,7 +23,8 @@
             android:name=".topsongs.TopSongsActivity"
             android:label="@string/bFavorites" />
         <activity android:name=".topsongs.SongDetailsActivity" />
-        <activity android:name=".favorites.FavoritesActivity"></activity>
+        <activity android:name=".favorites.FavoritesActivity" />
+        <activity android:name=".searchalbum.SearchAlbumActivity"></activity>
     </application>
 
 </manifest>
