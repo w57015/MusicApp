@@ -8,4 +8,11 @@
     <string name="searchalbum">Znajdź album</string>
     <string name="Szukaj">Szukaj</string>
     <string name="bFavorites">ulubione</string>
+    <string name="year_released">Rok wydania</string>
+    <string name="sales">Sprzedaż</string>
+    <string name="score">Wynik</string>
+    <string name="sort_by_name">Sort-nazwa</string>
+    <string name="sort_by_year">Sort-data wydania</string>
+    <string name="sort_by_sale">Sort-sprzedaż</string>
+    <string name="sort_by_score">Sort-wynik</string>
 </resources>
